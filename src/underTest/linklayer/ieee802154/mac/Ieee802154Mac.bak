@@ -1,0 +1,19 @@
+simple Ieee802154Mac
+    parameters:
+	debug:			bool,					// debug switch
+	isPANCoor:		bool,					// whether is PAN coordinator
+	BO:				numeric const,			// beacon order [1, 14]
+	SO:				numeric const,			// superframe order [0, BO)
+	dataTransMode:	numeric const,			// 1: direct; 2: indirect; 3: GTS
+	queueModule:		string,				// name of optional external queue module
+	panCoorName:	string,				// name of the PAN coordinator
+	isRecvGTS:		bool,					// transmit or receive in GTS
+	gtsPayload:		numeric const,			// payload of data frames transmitted in GTS, copied from traffic module
+	ack4Gts:			bool;					// whether acking for Data pkts received in GTS
+
+    gates:
+        in: 				uppergateIn; 			// from the upper layer
+        out:				uppergateOut; 		// to the upper layer
+        in:				lowergateIn; 			// from the physical layer
+        out:				lowergateOut; 			// to the physical layer
+endsimple

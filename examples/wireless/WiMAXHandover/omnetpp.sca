@@ -1,0 +1,1277 @@
+run 1 "HandoverNetworkClusterMS1"
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007048
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Mark minSNR" 	17.1540173647
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_1" 	17.1621683647
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"BS scan true" 	25.3721018253
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"BS scan Frame Counter" 	20
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	".max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_1" 	17.2021683647
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"HO Scanning Time" 	0.048151
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"HO make Handover Time" 	0.00599999999997
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Mark make Handover" 	17.2081683647
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"HO Handover done" 	17.1540173647
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	17.211036
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	17.215048
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Mark Net Entry" 	17.220152802
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"HO Net Entry Time" 	0.0119844373333
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"HO Hondover Time" 	0.0661354373333
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.ms1.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	12474
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.ms1.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs2.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs2.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs2.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs2.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs2.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs3.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs3.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs3.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs3.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs3.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs4.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs4.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs4.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs4.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs4.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs5.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs5.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs5.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs5.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs5.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs6.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs6.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs6.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs6.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs6.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS1.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS1.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS1.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS1.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS1.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS1.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS1.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 2 "HandoverNetworkClusterMS2"
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007048
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.ms2.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	12498
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS2.ms2.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.ms2.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs2.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs2.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs2.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs2.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs2.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs3.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs3.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs3.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs3.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs3.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs4.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs4.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs4.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs4.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs4.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs5.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs5.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs5.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs5.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs5.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs6.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs6.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs6.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs6.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs6.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS2.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS2.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	25
+scalar "HandoverNetworkClusterMS2.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS2.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS2.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS2.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS2.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 3 "HandoverNetworkClusterMS3"
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007048
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.ms3.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	913
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS3.ms3.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.ms3.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs2.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs2.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs2.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs2.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs2.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs3.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs3.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs3.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs3.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs3.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs4.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs4.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs4.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs4.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs4.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs5.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs5.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs5.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs5.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs5.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs6.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs6.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs6.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs6.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs6.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS3.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS3.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	1.829
+scalar "HandoverNetworkClusterMS3.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS3.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS3.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS3.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS3.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 14 "HandoverNetworkTwoBSandMS"
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBSandMS.ms21.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007036
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBSandMS.ms22.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 11 "HandoverNetworkCluster"
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007024
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.ms11.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	1627
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkCluster.ms11.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.ms11.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkCluster.ms11.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkCluster.ms11.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkCluster.ms11.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.ms11.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkCluster.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs2.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs2.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs2.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs2.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs2.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs2.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs2.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs3.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs3.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs3.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs3.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs3.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs3.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs3.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs4.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs4.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs4.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs4.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs4.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs4.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs4.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs4.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs4.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs4.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs4.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs4.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs4.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs4.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs4.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs5.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs5.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs5.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs5.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs5.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs5.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs5.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs5.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs5.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs5.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs5.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs5.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs5.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs5.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs5.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs6.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs6.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs6.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs6.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs6.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs6.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs6.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkCluster.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkCluster.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	3.256056
+scalar "HandoverNetworkCluster.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkCluster.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkCluster.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkCluster.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkCluster.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkCluster.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkCluster.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkCluster.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 7 "HandoverNetworkTwoBS"
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007048
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark minSNR" 	8.5320173657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_1" 	8.5401683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_1" 	8.5461683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_2" 	8.5521683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_2" 	8.5581683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_3" 	8.5641683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_3" 	8.5701683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_4" 	8.5761683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_4" 	8.5821683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_5" 	8.5881683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_5" 	8.5941683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StartScan_6" 	8.6001683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"BS scan true" 	25.5178479585
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"BS scan Frame Counter" 	3
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	".max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark StopScan_6" 	8.6061683657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"HO Scanning Time" 	0.074151
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"HO make Handover Time" 	0.00600000186669
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark make Handover" 	8.61216836757
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"HO Handover done" 	8.5320173657
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	8.615024
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	8.619012
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Mark Net Entry" 	8.62415279887
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"HO Net Entry Time" 	0.0119844313
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"HO Hondover Time" 	0.0921354331667
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Handover Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkTwoBS.ms51.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	10932
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkTwoBS.ms51.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkTwoBS.ms51.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkTwoBS.ms51.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkTwoBS.ms51.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkTwoBS.ms51.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.ms51.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkTwoBS.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	21.9100393447
+scalar "HandoverNetworkTwoBS.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkTwoBS.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkTwoBS.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkTwoBS.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkTwoBS.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkTwoBS.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkTwoBS.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkTwoBS.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	21.9100393447
+scalar "HandoverNetworkTwoBS.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkTwoBS.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkTwoBS.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkTwoBS.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkTwoBS.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkTwoBS.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkTwoBS.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkTwoBS.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 6 "HandoverNetworkClusterMS6"
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007048
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.ms6.wimax.msTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Received DL-MAPs" 	2936
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS6.ms6.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_ftp" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	128000.5
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	98000.5
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.ms6.trafGen_video_stream" 	"Bitrate of generated traffic" 	350000.5
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs1.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs1.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs1.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs1.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs1.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs1.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs2.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs2.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs2.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs2.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs2.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs2.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs3.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs3.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs3.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs3.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs3.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs3.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs4.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs4.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs4.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs4.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs4.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs4.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs5.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs5.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs5.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs5.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs5.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs5.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs6.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs6.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs6.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs6.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs6.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs6.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsReceiver.radioReceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR equal weights" 	0
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight UGS" 	4
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight RTPS" 	4
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight ERTPS" 	2
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight NRTPS" 	1
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.cpsTransceiver.scheduling" 	"WRR weight BE" 	1
+scalar "HandoverNetworkClusterMS6.bs7.wimax.bsTransceiver.radioTransceiver" 	"# of collisions" 	0
+scalar "HandoverNetworkClusterMS6.bs7.wimax.controlPlane.cp_basestation" 	"Simulation Time" 	5.875
+scalar "HandoverNetworkClusterMS6.bs7.wimax.controlPlane.cp_basestation" 	"Downlink per second" 	2000000
+scalar "HandoverNetworkClusterMS6.bs7.wimax.controlPlane.cp_basestation" 	"Downlink to Uplink ratio" 	0.5
+scalar "HandoverNetworkClusterMS6.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant scheduling for more than one frame" 	0
+scalar "HandoverNetworkClusterMS6.bs7.wimax.controlPlane.cp_basestation" 	"Uplink-Grant compensation factor" 	1
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_ftp" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_ftp" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_voice_no_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_voice_no_supr" 	"Bitrate of generated traffic" 	64000.5
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_voice_supr" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_voice_supr" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_guaranteed_minbw_web_access" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_guaranteed_minbw_web_access" 	"Bitrate of generated traffic" 	150000.5
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_video_stream" 	"trafficSent" 	0
+scalar "HandoverNetworkClusterMS6.bs7.trafGen_video_stream" 	"Bitrate of generated traffic" 	150000.5
+run 1 "HandoverNetworkClusterMS1"
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 1 "HandoverNetworkClusterMS1"
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003036
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkClusterMS1.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 8 "HandoverNetworkOneBS"
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 8 "HandoverNetworkOneBS"
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 8 "HandoverNetworkOneBS"
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007036
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 8 "HandoverNetworkOneBS"
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007036
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+run 8 "HandoverNetworkOneBS"
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.003024
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Start Ranging Time" 	0.007036
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.samples" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.mean" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.stddev" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.min" 	0
+scalar "HandoverNetworkOneBS.ms1.wimax.controlPlane.cp_mobilestation" 	"Ranging Start Time.max" 	0

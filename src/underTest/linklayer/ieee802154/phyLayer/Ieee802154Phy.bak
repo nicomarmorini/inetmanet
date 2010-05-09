@@ -1,0 +1,26 @@
+simple Ieee802154Phy
+    parameters:
+    
+	debug:				bool,
+	channelNumber: 		numeric const, 
+	
+    	// power used for transmission of messages (mW)
+        transmitterPower:		numeric const, 
+        	
+        // received signals with power below sensitivity are ignored (dBm)
+        sensitivity:			numeric const,
+        	
+        // base noise level (dBm)
+        thermalNoise:			numeric const, 
+        
+        // used by PathLossReceptionModel
+        pathLossAlpha:		numeric const, 
+        
+        // used by Ieee802154RadioModel
+        snirThreshold:			numeric const; 
+        
+    gates:
+        in:					uppergateIn;			// from Mac
+        out:					uppergateOut;			// to Mac
+        in:					radioIn; 					// to receive frames (AirFrame) on the radio channel
+endsimple

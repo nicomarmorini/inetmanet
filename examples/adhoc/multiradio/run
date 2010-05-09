@@ -1,0 +1,3 @@
+#!/bin/sh
+#./create_seed.sh
+../../../src/run_inet $*

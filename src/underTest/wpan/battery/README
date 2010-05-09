@@ -1,0 +1,17 @@
+Readme - INET/Isabel/Battery
+
+BasicBattery: Implementation of a simple battery model
+    "real" battery models should subclass this! 
+ 	The basic class publishes the remaining energy on the blackboard,
+ 	but does not decrement the energy. It can therefore be used for hosts 
+    having an infinite energy supply i.e. a power plug
+
+SensorBattery: Battery class to be used together with the 802.11 MAC.
+    The model accounts for energy usage due to radio transmissions and
+    receptions, cpu consumption (based on radio activity), and additional
+    cpu consumptions based on varying sensor programs (changes in sensor
+    programs are received via the notification board)
+
+SmacBattery: Battery class to be used together with the SMAC.
+    The model accounts for energy usage due to radio transmissions and
+    receptions and cpu consumption based on radio activity

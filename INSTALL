@@ -1,0 +1,31 @@
+INSTALLATION INSTRUCTIONS
+=========================
+
+The INET Framework can be compiled on any platform supported by OMNeT++.
+
+PREREQUISITES
+
+You should have a working OMNeT++ installation, version 4.0 or later.
+
+1. Make sure your OMNeT++ installation works OK (e.g. try running the samples)
+   and it is in the path (to test, try the command "which nedtool").
+
+2. Change to the INET directory.
+
+3. Type "make" to build the inet executable (debug version). Use "make MODE=release" 
+   to build release version.
+
+That should be it.
+
+Finally, try running the demo simulations. Change into examples/ and type
+"./rundemo".
+
+Note:
+-----
+If you add/remove files/directories later in the src directory, you should regenerate 
+your makefile in the src directory with:
+
+opp_makemake -f --deep --make-so -o inet -O out
+
+If you are using the IDE, it will do it for you. You don't have to do anything.
+

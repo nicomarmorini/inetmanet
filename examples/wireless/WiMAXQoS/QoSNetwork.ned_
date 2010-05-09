@@ -1,0 +1,19 @@
+//import
+//	"WiMAXMS",
+//	"WiMAXAP";	
+//	"Router";
+
+import
+    "WiMAXMS",
+    "WiMAXAP";
+
+module QoSNet
+	submodules:
+		bs: WiMAXAP;
+		ss: WiMAXMS;
+		
+	connections nocheck:	
+endmodule
+
+network qosNet : QoSNet
+endnetwork

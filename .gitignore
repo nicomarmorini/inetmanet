@@ -1,0 +1,17 @@
+# ignore files generated from messages
+
+*_m.h
+*_m.cc
+
+# ignore binary result files
+*.so
+*.a
+*.exe
+*.o
+*.obj
+*.dll
+.tkenvrc
+
+# ignore project specific files
+src/Makefile
+out

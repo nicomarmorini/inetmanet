@@ -1,0 +1,10 @@
+
+simple Display
+    parameters:
+        debug: bool, 			// debug switch
+        transmitterPower: numeric,
+        carrierFrequency: numeric,
+        sat: numeric,
+        sensitivity: numeric,
+        alpha: numeric;
+endsimple

@@ -1,0 +1,11 @@
+
+simple Ieee802154StarRouting
+	parameters:
+		debug:			bool, 				// debug switch
+		isPANCoor:		bool;
+	gates:
+        	in: 		uppergateIn; 			// from the upper layer
+        	out: 		uppergateOut; 		// to the upper layer
+        	in: 		lowergateIn; 			// from the physical layer
+        	out: 		lowergateOut; 			// to the physical layer
+endsimple

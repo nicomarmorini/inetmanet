@@ -1,0 +1,9 @@
+
+Press ENTER to convert all C++ files under the current directory:
+/c/INET/src/nodes/WiMAX
+
+The following files will be checked/modified:
+
+Press ENTER to start the conversion, or CTRL-C to quit.
+
+Conversion done. You may safely re-run this script as many times as you want.

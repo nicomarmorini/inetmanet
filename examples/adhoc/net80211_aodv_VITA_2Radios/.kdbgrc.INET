@@ -1,0 +1,36 @@
+[Breakpoint 0]
+Enabled=true
+File=packet_queue_omnet.cc
+Line=52
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=aodv_rerr.c
+Line=56
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=packet_queue_omnet.cc
+Line=103
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=aodv_socket.c
+Line=465
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=$*
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
