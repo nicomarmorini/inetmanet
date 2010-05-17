@@ -1,0 +1,40 @@
+rapporto Inviati/Ricevuti per  par40: 117784/57644, 48.94%
+Inviati 117784
+Ricevuti 57644
+Ratio 48.94
+Collisioni 1861610
+SentByMac 244457
+SentNoRetry 125885
+Retries 369559
+rapporto Inviati/Ricevuti per  par50: 152089/49330, 32.43%
+Inviati 152089
+Ricevuti 49330
+Ratio 32.43
+Collisioni 2638355
+SentByMac 279093
+SentNoRetry 123959
+Retries 516404
+rapporto Inviati/Ricevuti per  par60: 179898/45971, 25.55%
+Inviati 179898
+Ricevuti 45971
+Ratio 25.55
+Collisioni 2872135
+SentByMac 286831
+SentNoRetry 123676
+Retries 554975
+rapporto Inviati/Ricevuti per  par70: 207739/36865, 17.74%
+Inviati 207739
+Ricevuti 36865
+Ratio 17.74
+Collisioni 3295203
+SentByMac 298068
+SentNoRetry 119902
+Retries 634490
+rapporto Inviati/Ricevuti per  par80: 236459/33788, 14.28%
+Inviati 236459
+Ricevuti 33788
+Ratio 14.28
+Collisioni 3542852
+SentByMac 301321
+SentNoRetry 115563
+Retries 679731

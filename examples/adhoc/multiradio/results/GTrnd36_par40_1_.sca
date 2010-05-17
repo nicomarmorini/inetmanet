@@ -1,7 +1,7 @@
 version 2
-run GTrnd36-1-20100507-17:36:38-20989
+run GTrnd36-1-20100509-14:12:22-10427
 attr configname GTrnd36
-attr datetime 20100507-17:36:38
+attr datetime 20100509-14:12:22
 attr experiment GTrnd36
 attr inifile omnetpp.ini
 attr iterationvars "$numudpapp=3, $sp=40, $msgfreq=0.02"
@@ -10,7 +10,7 @@ attr measurement "$numudpapp=3, $sp=40, $msgfreq=0.02"
 attr msgfreq 0.02
 attr network NetworkMultiRadioIPv4
 attr numudpapp 3
-attr processid 20989
+attr processid 10427
 attr repetition 1
 attr replication #1
 attr resultdir results
@@ -38,14 +38,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Total send" 	929
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[0].mgmt 	"packets received by queue" 	1826
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -70,11 +70,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[0].mac 	numRetry 	4218
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	numSentWithoutRetry 	0
@@ -90,11 +90,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[0].wlan[2].mac 	numSentWithoutRetry 	0
@@ -129,14 +129,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[1].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[1].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[1].wlan[0].mgmt 	"packets received by queue" 	1589
 scalar NetworkMultiRadioIPv4.mobileHost[1].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -222,23 +222,23 @@ scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	numSentWithoutRetry 	0
@@ -254,11 +254,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[0].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	numSentWithoutRetry 	0
@@ -274,11 +274,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[2].wlan[2].mac 	numSentWithoutRetry 	0
@@ -313,14 +313,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[0].mgmt 	"packets received by queue" 	927
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -345,11 +345,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[0].mac 	numRetry 	2670
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	numSentWithoutRetry 	0
@@ -365,11 +365,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[3].wlan[2].mac 	numSentWithoutRetry 	0
@@ -404,23 +404,23 @@ scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	numSentWithoutRetry 	0
@@ -436,11 +436,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[0].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	numSentWithoutRetry 	0
@@ -456,11 +456,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[4].wlan[2].mac 	numSentWithoutRetry 	0
@@ -497,14 +497,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[0].mgmt 	"packets received by queue" 	1846
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -529,11 +529,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[0].mac 	numRetry 	5406
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	numSentWithoutRetry 	0
@@ -549,11 +549,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[5].wlan[2].mac 	numSentWithoutRetry 	0
@@ -588,14 +588,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[6].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[6].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[6].wlan[0].mgmt 	"packets received by queue" 	1123
 scalar NetworkMultiRadioIPv4.mobileHost[6].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -679,14 +679,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[7].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[7].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[7].wlan[0].mgmt 	"packets received by queue" 	1566
 scalar NetworkMultiRadioIPv4.mobileHost[7].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -761,21 +761,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[8].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[8].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[8].wlan[0].mgmt 	"packets received by queue" 	1095
 scalar NetworkMultiRadioIPv4.mobileHost[8].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -861,14 +861,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Total send" 	929
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[9].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[9].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[9].wlan[0].mgmt 	"packets received by queue" 	1566
 scalar NetworkMultiRadioIPv4.mobileHost[9].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -943,21 +943,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Total send" 	927
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[10].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[10].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[10].wlan[0].mgmt 	"packets received by queue" 	1304
 scalar NetworkMultiRadioIPv4.mobileHost[10].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1043,14 +1043,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[11].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[11].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[11].wlan[0].mgmt 	"packets received by queue" 	1385
 scalar NetworkMultiRadioIPv4.mobileHost[11].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1134,14 +1134,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[12].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[12].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[0].mgmt 	"packets received by queue" 	505
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1186,11 +1186,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[1].mac 	numRetry 	149
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[12].wlan[2].mac 	numSentWithoutRetry 	0
@@ -1216,21 +1216,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[13].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[13].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[13].wlan[0].mgmt 	"packets received by queue" 	1099
 scalar NetworkMultiRadioIPv4.mobileHost[13].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1305,21 +1305,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[14].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[14].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[14].wlan[0].mgmt 	"packets received by queue" 	1154
 scalar NetworkMultiRadioIPv4.mobileHost[14].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1407,14 +1407,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[15].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[15].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[15].wlan[0].mgmt 	"packets received by queue" 	961
 scalar NetworkMultiRadioIPv4.mobileHost[15].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1500,14 +1500,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[16].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[16].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[16].wlan[0].mgmt 	"packets received by queue" 	1636
 scalar NetworkMultiRadioIPv4.mobileHost[16].wlan[0].mgmt 	"packets dropped by queue" 	332
@@ -1582,21 +1582,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[17].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[17].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[0].mgmt 	"packets received by queue" 	1000
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1641,7 +1641,7 @@ scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[1].mac 	numRetry 	432
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mgmt 	"packets received by queue" 	1
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"Mean Frame Length" 	222
-scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"Sent Throughput" 	8.8799999038842e-05
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"CW medio" 	58.2
 scalar NetworkMultiRadioIPv4.mobileHost[17].wlan[2].mac 	"CW max" 	136
@@ -1671,21 +1671,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Total send" 	925
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[18].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[18].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[18].wlan[0].mgmt 	"packets received by queue" 	1036
 scalar NetworkMultiRadioIPv4.mobileHost[18].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1771,14 +1771,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Total send" 	927
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[19].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[19].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[19].wlan[0].mgmt 	"packets received by queue" 	1333
 scalar NetworkMultiRadioIPv4.mobileHost[19].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -1862,14 +1862,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[20].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[20].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[20].wlan[0].mgmt 	"packets received by queue" 	3504
 scalar NetworkMultiRadioIPv4.mobileHost[20].wlan[0].mgmt 	"packets dropped by queue" 	1856
@@ -1955,14 +1955,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Total send" 	930
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[21].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[21].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[21].wlan[0].mgmt 	"packets received by queue" 	2223
 scalar NetworkMultiRadioIPv4.mobileHost[21].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2050,14 +2050,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[22].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[22].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[22].wlan[0].mgmt 	"packets received by queue" 	1485
 scalar NetworkMultiRadioIPv4.mobileHost[22].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2143,14 +2143,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[23].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[23].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[23].wlan[0].mgmt 	"packets received by queue" 	1645
 scalar NetworkMultiRadioIPv4.mobileHost[23].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2225,21 +2225,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Total send" 	927
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[24].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[24].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[0].mgmt 	"packets received by queue" 	1302
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2284,11 +2284,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[1].mac 	numRetry 	506
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[24].wlan[2].mac 	numSentWithoutRetry 	0
@@ -2314,21 +2314,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Total send" 	926
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[25].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[25].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[25].wlan[0].mgmt 	"packets received by queue" 	1455
 scalar NetworkMultiRadioIPv4.mobileHost[25].wlan[0].mgmt 	"packets dropped by queue" 	21
@@ -2414,14 +2414,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Total send" 	925
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[26].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[26].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[26].wlan[0].mgmt 	"packets received by queue" 	1515
 scalar NetworkMultiRadioIPv4.mobileHost[26].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2496,21 +2496,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Total send" 	930
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Total send" 	925
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[27].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[27].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[27].wlan[0].mgmt 	"packets received by queue" 	2101
 scalar NetworkMultiRadioIPv4.mobileHost[27].wlan[0].mgmt 	"packets dropped by queue" 	751
@@ -2594,14 +2594,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[28].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[28].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[28].wlan[0].mgmt 	"packets received by queue" 	1350
 scalar NetworkMultiRadioIPv4.mobileHost[28].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2676,21 +2676,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[29].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[29].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[0].mgmt 	"packets received by queue" 	1487
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2735,11 +2735,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[1].mac 	numRetry 	129
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[29].wlan[2].mac 	numSentWithoutRetry 	0
@@ -2774,23 +2774,23 @@ scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	numSentWithoutRetry 	0
@@ -2806,11 +2806,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[0].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	numSentWithoutRetry 	0
@@ -2826,11 +2826,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[30].wlan[2].mac 	numSentWithoutRetry 	0
@@ -2856,30 +2856,30 @@ scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	numSentWithoutRetry 	0
@@ -2895,11 +2895,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[0].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	numSentWithoutRetry 	0
@@ -2915,11 +2915,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[31].wlan[2].mac 	numSentWithoutRetry 	0
@@ -2954,14 +2954,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[0].mgmt 	"packets received by queue" 	927
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -2986,11 +2986,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[0].mac 	numRetry 	2880
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	numSentWithoutRetry 	0
@@ -3006,11 +3006,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[32].wlan[2].mac 	numSentWithoutRetry 	0
@@ -3036,21 +3036,21 @@ scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[0] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[0].mgmt 	"packets received by queue" 	913
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -3075,11 +3075,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[0].mac 	numRetry 	1542
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	numSentWithoutRetry 	0
@@ -3095,11 +3095,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[33].wlan[2].mac 	numSentWithoutRetry 	0
@@ -3134,14 +3134,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Total send" 	928
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[34].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[34].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[34].wlan[0].mgmt 	"packets received by queue" 	748
 scalar NetworkMultiRadioIPv4.mobileHost[34].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -3225,14 +3225,14 @@ scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[1] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Total send" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Total received" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Total deleted" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Mean delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Min delay" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Max delay" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Deviation delay" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].udpApp[2] 	"Deviation delay" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].pingApp 	"Pings sent" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[0].mgmt 	"packets received by queue" 	919
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[0].mgmt 	"packets dropped by queue" 	0
@@ -3257,11 +3257,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[0].mac 	numRetry 	1793
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	numSentWithoutRetry 	0
@@ -3277,11 +3277,11 @@ scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[1].mac 	numRetry 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mgmt 	"packets received by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mgmt 	"packets dropped by queue" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"Mean Frame Length" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"Frame Length stddev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"Frame Length stddev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"Sent Throughput" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"CW medio" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"CW max" 	0
-scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"CW dev" 	-nan
+scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"CW dev" 	nan
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	"Mean service time" 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	numSent 	0
 scalar NetworkMultiRadioIPv4.mobileHost[35].wlan[2].mac 	numSentWithoutRetry 	0
