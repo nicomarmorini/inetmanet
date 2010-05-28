@@ -753,17 +753,19 @@ int GEO::randomizeRoutes(IPAddress tgt, bool fwd)
 	if (load > 1) {
 		load = 1;
 	}
+	int k = randIfIndex;
 	if (ifChoice == GT_FWD || ifChoice == GT_NOLOAD) {
 		if (fwd == false) {
 			// handle originary packet: if the node does "enough" forwarding he can use the 2nd and 3rd channel for his packets; otherwise he's stuck on 1st channel
-			int k = 0;
 			if (ifChoice == GT_FWD) {
 				myClass = sqrt(fwdRate * load) * numInterfaces;
-				k = myClass > 1 ? uniform(0, sqrt(fwdRate * load) * (numInterfaces - 1)) + 1 : 0;
+				k += myClass > 1 ? uniform(0, sqrt(fwdRate * load) * (numInterfaces - 1)) + 1 : 0;
+				k = k % numInterfaces;
 			}
 			else if (ifChoice == GT_NOLOAD) {
 				myClass = fwdRate * numInterfaces;
-				k = myClass > 1 ? uniform(0,fwdRate*(numInterfaces-1)) + 1 : 0;
+				k += myClass > 1 ? uniform(0,fwdRate*(numInterfaces-1)) + 1 : 0;
+				k = k % numInterfaces;
 			}
 			EV << "Interface selected: " << k << endl;
 			for (std::multimap<const IPRoute *, int>::iterator ii = tmp.begin(); ii!= tmp.end(); ii++) {
@@ -780,7 +782,7 @@ int GEO::randomizeRoutes(IPAddress tgt, bool fwd)
 			// handle fwd packet: select the first channel
 			for (std::multimap<const IPRoute *, int>::iterator ii = tmp.begin(); ii!= tmp.end(); ii++) {
 				int ifaceindex = ii->first->getInterface()->getNetworkLayerGateIndex();
-				if(ifaceindex == 0) {
+				if(ifaceindex == k) {
 					rt->setMetric(ii->second, 1);
 				}
 				else
@@ -823,6 +825,7 @@ int GEO::randomizeRoutes(IPAddress tgt, bool fwd)
 	if (ifChoice == GT_RND) {
 		myClass = sqrt(fwdRate * load) * numInterfaces;
 		int k = uniform(0, myClass);
+		k = (k + randIfIndex) % numInterfaces;
 		EV << "fwdRate * load = " << fwdRate * load << endl;
 		EV << "Sqrt is: " << sqrt(fwdRate * load) << endl;
 		EV << "Interface selected: " << k << endl;
