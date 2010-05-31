@@ -749,7 +749,9 @@ int GEO::randomizeRoutes(IPAddress tgt, bool fwd)
 	mu[k]=ifData[k].macMeanServiceTime;
 	lambda[k]+=ifData[k].mgmtNumQueueReceived;
 	}
-	load = (double) lambda[0] / (simTime()-1)*mu[0];
+
+	// Calcolo il carico relativamente all'interfaccia 'base' cioe' randIfIndex
+	load = (double) lambda[randIfIndex] / (simTime()-1)*mu[randIfIndex];
 	if (load > 1) {
 		load = 1;
 	}
