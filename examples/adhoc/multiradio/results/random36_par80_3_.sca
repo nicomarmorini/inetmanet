@@ -1,7 +1,7 @@
 version 2
-run random36-23-20100531-15:32:36-12683
+run random36-23-20100601-10:15:42-13021
 attr configname random36
-attr datetime 20100531-15:32:36
+attr datetime 20100601-10:15:42
 attr experiment random36
 attr inifile omnetpp.ini
 attr iterationvars "$numudpapp=3, $sp=80, $msgfreq=0.02"
@@ -10,7 +10,7 @@ attr measurement "$numudpapp=3, $sp=80, $msgfreq=0.02"
 attr msgfreq 0.02
 attr network NetworkMultiRadioIPv4
 attr numudpapp 3
-attr processid 12683
+attr processid 13021
 attr repetition 3
 attr replication #3
 attr resultdir results
